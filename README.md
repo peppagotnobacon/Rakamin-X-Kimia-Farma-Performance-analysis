@@ -1,5 +1,5 @@
 # Rakamin-X-Kimia-Farma-Performance-analysis
-Final submission for project based internship
+Final submission for project based internship (Looker studio link: https://datastudio.google.com/s/gxiHGMAR_r0)
 
 # Kimia Farma Business Performance Analysis (2020–2023)
 
