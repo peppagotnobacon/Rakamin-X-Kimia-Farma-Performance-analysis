@@ -53,7 +53,7 @@ This project evaluates Kimia Farma’s historical performance (2020–2023) to a
    Overall business growth remained flat from 2020 to 2023. Annual total sales consistently plateaued at around **IDR 80 Billion**, exhibiting no upward trend, downward slope, or clear monthly seasonality.
 
 2. **West Java Revenue Concentration Driven by Branch Density**  
-   West Java generated the highest cumulative sales at **IDR 94.9 Billion**. However, this volume is heavily driven by branch density—West Java accounts for **510 branches (~30% of total Kimia Farma branches nationwide)**.
+   West Java generated the highest cumulative sales at **IDR 94.9 Billion**. However, this volume is heavily driven by branch density, West Java accounts for **510 branches (~30% of total Kimia Farma branches nationwide)**.
 
 3. **Homogeneous Performance Across Regions & Categories**  
    Sales performance across 31 provinces and 3 branch categories was nearly identical. This uniformity stems from standardized gross profit margin percentages tied directly to product pricing tiers rather than regional market dynamics.
@@ -62,7 +62,7 @@ This project evaluates Kimia Farma’s historical performance (2020–2023) to a
    A correlation coefficient of **$r = 0.0019$** indicates zero correlation between branch facility ratings and customer transaction satisfaction ratings. High branch ratings do not translate to superior transaction experiences.
 
 5. **Weak Customer Retention Rates**  
-   Customer retention remains low—**58% of 264,601 unique customers** completed only one transaction throughout the entire 4-year period.
+   Customer retention remains low **58% of 264,601 unique customers** completed only one transaction throughout the entire 4-year period.
 
 ---
 
@@ -79,3 +79,6 @@ This project evaluates Kimia Farma’s historical performance (2020–2023) to a
 
 * **Data Warehousing & SQL:** Google BigQuery
 * **Business Intelligence & Data Visualization:** Looker Studio
+
+## Dashboard Preview
+<img width="284" height="400" alt="dashboard_kimia_farma" src="https://github.com/user-attachments/assets/c37a2f0b-f0e4-4ab9-88aa-81cbb2373da7" />
